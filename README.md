@@ -28,6 +28,9 @@ https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-
 ![alt text](https://santhoshravirala.com/wp-content/uploads/2019/03/microservices-vs-monolithic-1024x495.jpg)
 
 
+## System design
+![alt text](https://raw.githubusercontent.com/donnemartin/system-design-primer/master/images/jj3A5N8.png)
+
 # Reference Documentation:
 ## How does the Internet work?
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
